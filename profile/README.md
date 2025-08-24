@@ -2,7 +2,7 @@
 
 **Your logs deserve better than the console. Meet BetterLogs.**
 
-BetterLogs **will be** *(I hope so)* a developer-first logging solution designed to replace the traditional `console.log` with an easy-to-use system. The goal is to make logging not only more readable.
+BetterLogs **will be** *(I hope so)* a developer-first logging solution designed to replace the traditional `console.log` with an easy-to-use system. The goal is to make logging more readable.
 
 ## Objective
 
